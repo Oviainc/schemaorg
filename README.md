@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg). **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: schemaorg. Licence: Apache-2.0 (see LICENSE where present).
+
+---
+
 Welcome to Schema.org
 =====================
 [![CI Tests Shield](https://github.com/schemaorg/schemaorg/actions/workflows/ci_tests.yml/badge.svg)](https://github.com/schemaorg/schemaorg/actions)
